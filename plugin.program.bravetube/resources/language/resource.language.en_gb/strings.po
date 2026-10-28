@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.program.bravetube\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "#30000"
+msgid "General"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Interface"
+msgstr ""
+
+msgctxt "#30002"
+msgid "YouTube TV (remote friendly)"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Desktop YouTube (needs mouse/keyboard)"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Brave executable (leave empty to auto-detect)"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Only needed if Brave is installed somewhere unusual."
+msgstr ""
+
+msgctxt "#30006"
+msgid "Hardware video decoding (Linux, VA-API)"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Try this if 4K or high-framerate video stutters. Turn it off if video goes black."
+msgstr ""
+
+msgctxt "#30008"
+msgid "Extra Brave command-line arguments"
+msgstr ""
